@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "React Ultimate Application",
   "author": "Nikola Petrovic",
-  "repository": "https://github.com/nikpetrovic/UltimateApp.git",
+  "repository": "https://github.com/nikpetrovic/ultimate-app.git",
   "license": "ISC",
   "scripts": {
     "start": "webpack --progress --colors --watch",
