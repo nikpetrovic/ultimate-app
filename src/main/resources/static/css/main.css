@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.listItem {
+	border: thin solid gray;
+	border-radius: 8px;
+	padding: 4px;
+	font-size: .9em;
+}
+
+.listItem:hover {
+	background-color: red;
+}
+
+.listItem:active {
+	background-color: pink;
+}
+
+.listSubject {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.listPreview {
+	padding: 2px 0;
+	color: gray;
+	font-size: .85em;
+}
